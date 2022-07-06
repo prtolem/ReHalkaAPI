@@ -9,6 +9,6 @@ setup(
     author='kiber',
     author_email='coder@derkown.ru',
     description='API for https://rehalka.online/',
-    url = 'github package source url',
-    download_url = 'download link you saved'
+    url = 'https://github.com/prtolem/ReHalkaAPI',
+    download_url = 'https://github.com/prtolem/ReHalkaAPI/archive/refs/tags/1.0.0.tar.gz'
 )
